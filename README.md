@@ -5,13 +5,12 @@
 ##
 
 - 👷🏻‍♀️ Formada em Engenharia da Computação e Inteligência Analítica e Ciência de Dados
-- 👩‍💻 Estudo linguagem Python, Power BI, IA (🤖), OutSystems.
-- 📫 Email: gleiciane.silva.ti@gmail.com
+- 👩‍💻 Atualmente estou estudando linguagem Python, Ciência de Dados, IA (🤖), Power BI e OutSystems.
+- 📩 Email: gleiciane.silva.ti@gmail.com
 
 ##
 
--  Languagens e Ferramentas
-
+-  Languagens e Ferramentas:
 <div align="center" style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
