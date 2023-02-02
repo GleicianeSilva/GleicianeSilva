@@ -18,7 +18,7 @@
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
 </div>
 
-## 👩‍ Bibliotecas:
+## 👩‍💻 Bibliotecas:
 <div align="center" style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
