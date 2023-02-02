@@ -47,8 +47,8 @@
 
 <div> 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gleicianesilva&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleicianesilva&layout=compact)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gleicianesilva&show_icons=true&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gleicianesilva&show_icons=true&theme=radical)
   
 </div>
   
