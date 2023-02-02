@@ -1,14 +1,10 @@
-### Hi there 👋
+### Olá, sou Gleiciane Silva, desenvolvedora 🚀
 
 - 💻 Atualemnte desenvolvo em Python e OutSystems.
-- 👩‍💻 Estudo Python, Power BI, IA (🤖), OutSystems.
-- 📱 Email: gleiciane.silva.ti@gmail.com
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻 Estudo linguagem Python, Power BI, IA (🤖), OutSystems.
+- 📫 Email: gleiciane.silva.ti@gmail.com
+- 👷🏻‍♀️ Sou formada em Engenharia da Computação e Inteligência Analítica e Ciência de Dados
+
 
 
 <div style="display: inline_block"><br>
