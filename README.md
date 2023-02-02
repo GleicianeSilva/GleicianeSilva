@@ -47,7 +47,7 @@
 
 <div> 
   
-<img heigths='180cm' src="![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gleicianesilva&show_icons=true&theme=radical)" />
+<img heigths='180cm' src="https://github-readme-stats.vercel.app/api?username=gleicianesilva&show_icons=true&theme=radical"/>
 <img heigths='180cm' src="![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gleicianesilva&show_icons=true&theme=radical)" />
   
 </div>
