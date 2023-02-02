@@ -45,7 +45,10 @@
 
 ## 📊  Estatísticas do GitHub
 
-
+<div> 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GleicianeSilva=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+  
   ##
  
 <div> 
