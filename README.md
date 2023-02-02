@@ -46,7 +46,7 @@
 ## 📊  Estatísticas do GitHub
 
 <div> 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GleicianeSilva)
+ <a href="https://github-readme-stats.vercel.app/api?username=GleicianeSilva></a>  
 </div>
   
   ##
