@@ -18,7 +18,7 @@
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
 </div>
 
-## * Ferramentas:
+## ⚒️ Ferramentas:
 <div align="center" style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)">
   <img align="center" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/gleiciane-silva-33737139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## ⭐ Estatísticas do GitHub
+## 📊  Estatísticas do GitHub
 
 
   ##
