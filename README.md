@@ -2,14 +2,11 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Gleiciane Silva | 💻 Desenvolvedora Python e OutSystems <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-##
-
 - 👷🏻‍♀️ Formada em Engenharia da Computação e Inteligência Analítica e Ciência de Dados
 - 👩‍💻 Atualmente estou estudando linguagem Python, Ciência de Dados, IA (🤖), Power BI e OutSystems.
 - 📩 Email: gleiciane.silva.ti@gmail.com
 
-##
--  Habilidades:
+## -  Habilidades:
 <div align="center" style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -22,8 +19,7 @@
   <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)">
 </div>
 
-##
--  Ferramentas:
+## -  Ferramentas:
 <div align="center" style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)">
   <img align="center" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
