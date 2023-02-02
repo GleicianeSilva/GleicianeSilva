@@ -18,6 +18,13 @@
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
 </div>
 
+## 👩‍ Bibliotecas:
+<div align="center" style="display: inline_block"><br>
+  <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white">
+</div>
+
 ## ⚙️ Ferramentas:
 <div align="center" style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)">
