@@ -7,7 +7,7 @@
 - 👩‍💻 Atualmente estou estudando linguagem Python, Ciência de Dados, IA (🤖), Power BI e OutSystems.
 - 📩 Email: gleiciane.silva.ti@gmail.com
 
-## * Habilidades:
+## 💻 Habilidades:
 <div align="center" style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -31,9 +31,11 @@
   <img align="center" src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white">
 </div>
 
-## * Contato:
+## 📱 Contato:
 <div align="center"> 
  <a href="https://discord.com/channels/@Gleiciane Silva" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gleiciane.silva.ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gleiciane-silva-33737139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+## ⭐ Estatísticas do GitHub
