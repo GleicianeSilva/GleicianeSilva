@@ -46,7 +46,7 @@
 ## 📊  Estatísticas do GitHub
 
 <div> 
- <a href="https://github-readme-stats.vercel.app/api?username=GleicianeSilva></a>  
+ https://github-readme-stats.vercel.app/api?username=GleicianeSilva
 </div>
   
   ##
