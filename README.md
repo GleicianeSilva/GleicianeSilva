@@ -45,14 +45,16 @@
 
 ## 📊  Estatísticas do GitHub
 
-<div> 
+<div align="center"> 
   
 <a href="https://github.com/GleicianeSilva">
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=gleicianesilva&show_icons=true&theme=radical"/>
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleicianesilva&layout-compact&langs_count=16&theme=dracula"/>
-  
+<img width="48%"" src="https://github-readme-stats.vercel.app/api?username=gleicianesilva&show_icons=true&theme=dracula"/>
+<img width="43%"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleicianesilva&layout=compact&theme=dracula"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gleicianesilva&theme=dracula" />
+
 </div>
   
+
   ##
  
 <div> 
