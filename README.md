@@ -1,6 +1,8 @@
 <div align="center">
 <h3><img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="css3" width="45"> Gleiciane Silva | 💻 Desenvolvedora Python e <img src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGfL5aewgRNSMjCfB39rbd28=/dev-tools-2023-01-04%2000-00-00-2023-01-23%2016-00-49" alt="css3" width="25"> OutSystems</h3>
+<img align="right" width="170px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/71572039/216510822-39114072-9905-4308-b0ee-3a4bddc8b76f.png">
 </div>
+
 </br>
 
 - 👷🏻‍♀️ Formada em Engenharia da Computação e Inteligência Analítica e Ciência de Dados
@@ -9,6 +11,7 @@
 
 - 📩 Email: gleiciane.silva.ti@gmail.com
 
+</div>
 </br>
 
 ## 💻 Habilidades:
