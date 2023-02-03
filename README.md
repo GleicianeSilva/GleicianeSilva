@@ -47,8 +47,9 @@
 
 <div> 
   
-<img heigths='180em' src="https://github-readme-stats.vercel.app/api?username=gleicianesilva&show_icons=true&theme=radical"/>
-<img heigths='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleicianesilva&show_icons=true&theme=radical"/>
+<a href="https://github.com/GleicianeSilva">
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=gleicianesilva&show_icons=true&theme=radical"/>
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleicianesilva&show_icons=true&theme=radical"/>
   
 </div>
   
