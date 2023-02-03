@@ -1,11 +1,15 @@
 <div align="center">
-<h3><img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="css3" width="40"> Gleiciane Silva | 💻 Desenvolvedora Python e <img src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGfL5aewgRNSMjCfB39rbd28=/dev-tools-2023-01-04%2000-00-00-2023-01-23%2016-00-49" alt="css3" width="25"> OutSystems</h3>
+<h3><img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="css3" width="45"> Gleiciane Silva | 💻 Desenvolvedora Python e <img src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGfL5aewgRNSMjCfB39rbd28=/dev-tools-2023-01-04%2000-00-00-2023-01-23%2016-00-49" alt="css3" width="25"> OutSystems</h3>
 </div>
-
+</br>
 
 - 👷🏻‍♀️ Formada em Engenharia da Computação e Inteligência Analítica e Ciência de Dados
-- 👩‍💻 Atualmente estou estudando sobre linguagem Python, Ciência de Dados, IA (🤖), Power BI e OutSystems.
+
+- 👩‍💻 Atualmente estou estudando sobre linguagem Python, Ciência de Dados, IA , Power BI e OutSystems.
+
 - 📩 Email: gleiciane.silva.ti@gmail.com
+
+</br>
 
 ## 💻 Habilidades:
 <div align="center" style="display: inline_block"><br>
@@ -16,6 +20,7 @@
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img align="center" src="https://diginationmea.com/w/wp-content/uploads/2021/01/OutSystems-logo.png" alt="css3" width="150">
 </div>
 
 ## 🚀 Bibliotecas
@@ -40,7 +45,7 @@
 <div align="center"> 
  <a href="https://discord.com/channels/@Gleiciane Silva" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gleiciane.silva.ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gleiciane-silva-33737139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/gleiciane-silva-33737139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
 ## 📊  Estatísticas do GitHub
@@ -54,11 +59,11 @@
 
 </div>
   
-
-  ##
- 
+ ##
 <div> 
-
+  
   ![Snake animation](https://github.com/denisshiki/denisshiki/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+ 
