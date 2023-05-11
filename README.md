@@ -7,7 +7,7 @@
 
 - 👷🏻‍♀️ Formada em Engenharia da Computação e Inteligência Analítica e Ciência de Dados
 
-- 👩‍💻 Atualmente estou estudando sobre linguagem Python, Ciência de Dados, IA , Power BI e OutSystems.
+- 👩‍💻 Atualmente estou estudando sobre linguagem Python, PHP, HTML5, CSS3, JavaScript, Ciência de Dados, IA , Power BI, OutSystems e Bubble.
 
 - 📩 Email: gleiciane.silva.ti@gmail.com
 
