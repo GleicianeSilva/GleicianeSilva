@@ -24,7 +24,7 @@
   <img align="center" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img align="center" src="https://diginationmea.com/w/wp-content/uploads/2021/01/OutSystems-logo.png" alt="OutSystems" width="150">
-  <img align="center" src="https://getlogovector.com/wp-content/uploads/2021/08/bubble-io-logo-vector.png" alt="Bubble" width="100">
+  <img align="center" src="https://getlogovector.com/wp-content/uploads/2021/08/bubble-io-logo-vector.png" alt="Bubble" width="90">
 </div>
 </br>
 
